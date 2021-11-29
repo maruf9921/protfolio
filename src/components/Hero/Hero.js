@@ -10,11 +10,11 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          My Personal Portfolio
+          Abdullah Al Maruf's Portfolio
         </SectionTitle>
-        <SectionText>
+        {/* <SectionText>
         The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
-        </SectionText>
+        </SectionText> */}
         <Button><a href='https://drive.google.com/file/d/13RT4ARp_tf4Fr5IQTZuNwwiNPziqY5vj/view?usp=sharing' target="_blank">Resume</a></Button>
       </LeftSection>
     </Section>

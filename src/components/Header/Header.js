@@ -20,11 +20,11 @@ const Header = () =>  (
           <NavLink>Projects</NavLink>
         </Link>
       </li>
-      <li>
+      {/* <li>
         <Link href="#tech">
           <NavLink>Technologies</NavLink>
         </Link>
-      </li>        
+      </li>         */}
       <li>
         <Link href="#about">
           <NavLink>About</NavLink>
@@ -32,13 +32,13 @@ const Header = () =>  (
       </li>        
     </Div2>
       <Div3>
-        <SocialIcons href="https://drive.google.com/file/d/13RT4ARp_tf4Fr5IQTZuNwwiNPziqY5vj/view?usp=sharing">
+        <SocialIcons href="https://github.com/maruf9921">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://www.linkedin.com/in/abdullah-al-maruf-517428213">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
       </Div3>
